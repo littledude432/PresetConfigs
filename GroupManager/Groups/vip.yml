@@ -1,0 +1,17 @@
+---
+Name: VIP
+Prefix: '[VIP]'
+Suffix: false
+Perms:
+  - '&.login'
+  - '&.register'
+  - '&.spawn'
+  - '&.tpa'
+  - '&.tpaccept'
+  - '&.tpdeny'
+  - '&.d'
+  - '&.ud'
+  - '&.v'
+  - 'pmess.disguisecraft.mob.all'
+  - 'server.flyinsurvival'
+Members: [ ]

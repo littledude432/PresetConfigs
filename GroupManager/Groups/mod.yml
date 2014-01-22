@@ -1,0 +1,12 @@
+---
+Name: Mod
+Prefix: '[Mod]'
+Suffix: false
+Perms:
+  - '&.spawn'
+  - '&.tp'
+  - '&.list'
+  - '&.tpa'
+  - '&.tpaccept'
+  - '&.tpdeny'
+Members: [ ]

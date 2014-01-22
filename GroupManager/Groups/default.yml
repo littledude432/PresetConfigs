@@ -1,0 +1,19 @@
+---
+Name: Default
+Perms:
+  - '&.tell'
+  - '&.tpa'
+  - '&.tpaccept'
+  - '&.tpdeny'
+  - '&.home'
+  - '&.sethome'
+  - '&.register'
+  - '&.login'
+  - '&.help'
+  - '&.spawn'
+  - '&.d'
+  - pmess.disguisecraft.mob.pig
+  - '&.chat-on'
+  - '&.chat-off'
+Members: [ ]
+Prefix: '[Player] '
