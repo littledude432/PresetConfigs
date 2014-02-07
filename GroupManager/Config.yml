@@ -1,2 +1,2 @@
 ---
-OP-Override: true
+Disable-GroupManager: false

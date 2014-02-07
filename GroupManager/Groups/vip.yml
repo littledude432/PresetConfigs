@@ -1,17 +1,27 @@
 ---
 Name: VIP
 Prefix: '[VIP]'
-Suffix: false
+Suffix: ' - I am VIP haha! '
 Perms:
   - '&.login'
   - '&.register'
   - '&.spawn'
   - '&.tpa'
   - '&.tpaccept'
+  - '&.sethome'
+  - '&.home'
+  - '&.lock'
+  - '&.unlock'
   - '&.tpdeny'
   - '&.d'
   - '&.ud'
   - '&.v'
-  - 'pmess.disguisecraft.mob.all'
-  - 'server.flyinsurvival'
+  - pmess.disguisecraft.mob.all
+  - pmess.disguisecraft.block
+  - server.flyinsurvival
+  - '&.fly'
+  - '&v'
+  - '&dm'
+  - '&dp'
+  - 'pmess.signs.use'
 Members: [ ]

@@ -1,6 +1,6 @@
 ---
 Name: Owner
-Prefix: '[Owner]*'
+Prefix: '*[Owner]*'
 Suffix: false
 Perms:
   - '&.op'
@@ -62,5 +62,26 @@ Perms:
   - '&.banip'
   - '&.chat-on'
   - '&.chat-off'
-  - pmess.disguisecraft.mob.all
-Members: [ ]
+  - pmess.disguisecraft.player
+  - '&.pt'
+  - pmess.disguisecraft.block
+  - '&.v-man'
+  - '&.setwspawn'
+  - '&.pos'
+  - mchg.admin
+  - '&.hgadm'
+  - pmess.vanish.use
+  - '&.ppos1'
+  - '&.ppos2'
+  - '&.f'
+  - '&.fly'
+  - '&.warp'
+  - '&.pbypass'
+  - pmess.protect.bypass
+  - '&.setwarp'
+  - '&wlist'
+  - '&.say'
+  - 'pmess.signs.create'
+  - 'pmess.signs.use'
+Members:
+  - kevinwang_china

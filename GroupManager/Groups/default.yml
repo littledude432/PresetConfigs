@@ -11,9 +11,16 @@ Perms:
   - '&.login'
   - '&.help'
   - '&.spawn'
-  - '&.d'
-  - pmess.disguisecraft.mob.pig
   - '&.chat-on'
   - '&.chat-off'
-Members: [ ]
+  - '&.d'
+  - pmess.disguisecraft.mob.chicken
+  - '&.hg'
+  - '&.warp'
+  - 'pmess.signs.use'
+Members:
+  - endgate
+  - kevinwang_china
+  - pocketguild
 Prefix: '[Player] '
+Suffix: false
