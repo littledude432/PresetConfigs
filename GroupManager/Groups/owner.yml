@@ -83,4 +83,5 @@ Perms:
   - '&.say'
   - 'pmess.signs.create'
   - 'pmess.signs.use'
-Members: [ ]
+Members:
+  - kevinwang_china
